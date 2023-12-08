@@ -1,9 +1,9 @@
-# Ghibli-_api
+# Ghibli-moovies-search
 Site desenvolvido utilizando API local com os filmes da Ghibli, como exercício de aula da semana 14 do curso de FrontEnd da {reprograma}
 
 # Indice
 
-- [Apresentação](#Apresentação)
+- [APRESENTAÇÃO](#APRESENTAÇÃO)
 - [DESCRIÇÃO DO PROJETO](#Descrição-Do-Projeto)
 - [TECNOLOGIAS UTILIZADAS](#Tecnologias-Utilizadas)
 - [PASSO A PASSO UTILIZADO](#Passo-A-Passo-Utilizado)
@@ -13,7 +13,7 @@ Site desenvolvido utilizando API local com os filmes da Ghibli, como exercício 
 - [CONFIRA O RESULTADO ](#Confira-O-Resultado)
 
 
-# Apresentação
+# APRESENTAÇÃO
 
 ### Quem é Flaviana?
 
@@ -89,9 +89,11 @@ O projeto é constituído de apenas uma página, onde se implementou o mecanismo
   
 3️⃣ Exclusão de arquivos do projeto que não faremos uso e inserção de algum elemento em App.jsx para ver se o projeto está funcionando
 
----INSERIR AS OUTRAS ETAPAS ----
+4️⃣ Criação dos Componentes
 
-7️⃣ Adicionar todas as modificações a cada etapa e subir no GitHub
+5️⃣ Implementação do mecanismo de busca utilizando UseState e UseEffect
+
+6️⃣ Adicionar todas as modificações a cada etapa e subir no GitHub
  ```bash
  git add .
  ```
@@ -102,7 +104,7 @@ O projeto é constituído de apenas uma página, onde se implementou o mecanismo
  git push
 ```
 
-8️⃣ Deploy do projeto no Vercel
+7️⃣ Deploy do projeto no Vercel
 
 # FUNCIONALIDADES IMPLEMENTADAS
 
@@ -131,7 +133,8 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 ```
 
 O navegador será aberto automaticamente usando a porta localhost:3000 
+
   
 # CONFIRA O RESULTADO 
 
-https://meus-conteudos-favoritos-ddqym43nw-flavianafxt.vercel.app/
+https://ghibli-moovies-search.vercel.app/
