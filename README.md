@@ -32,7 +32,7 @@ Flaviana Ferraz é uma sertaneja de Pernambuco morando no sertão da Paraiba, fo
 
 ## 🧠 Contexto
 
-Projeto React desenvolvido durante o curso Frontend da Reprograma, em que desenvolvemos um mecanismo de busca de filmes da Ghibli, utilizando o acesso à API local.
+Projeto React desenvolvido durante o curso Frontend da Reprograma, em que desenvolvemos um mecanismo de busca de filmes da Ghibli, utilizando a [API da Ghibli Films]('https://ghibliapi.vercel.app/films').
 
 
 ![image](https://github.com/FlavianaFXT/Ghibli-_api/assets/113718720/864177e8-da65-4b2e-8544-06faee1caf3e)
@@ -44,7 +44,7 @@ Projeto React desenvolvido durante o curso Frontend da Reprograma, em que desenv
 
 ### Páginas do Projeto
 
-O projeto é constituído de apenas uma página, onde se implementou o mecanismo de busca na API local.
+O projeto é constituído de apenas uma página, onde se implementou o mecanismo de busca na [API da Ghibli Films]('https://ghibliapi.vercel.app/films'), utilizando o Axios e o método GET.
 
 ![image](https://github.com/FlavianaFXT/Ghibli-_api/assets/113718720/53693753-0b5d-485a-948e-2a11f1934369)
 
